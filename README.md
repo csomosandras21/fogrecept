@@ -7,8 +7,7 @@ Ez egy egyszerű receptes weboldal HTML és CSS használatával.
 ## Fájlok
 
 - **`index.html`**: A weboldal HTML kódját tartalmazza.
-- **`styles.css`**: A weboldal stílusait tartalmazó CSS fájl.
-- **`images/`**: A receptes képeket tartalmazó mappa.
+- **`stilus.css`**: A weboldal stílusait tartalmazó CSS fájl.
 
 ## Weboldal Tartalom
 
@@ -19,12 +18,6 @@ Ez egy egyszerű receptes weboldal HTML és CSS használatával.
 
 ### `styles.css`
 - Alap stílusok a weboldal kinézetének beállításához.
-
-## Kép Példák
-
-1. Csokoládétorta: `images/chocolate-cake.jpg`
-2. Spagetti Bolognai: `images/spaghetti.jpg`
-3. Saláta: `images/salad.jpg`
 
 ## Használat
 
